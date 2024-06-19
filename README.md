@@ -51,7 +51,8 @@
 
 Every Algorithm run with it's details:
 </br>
-![Screenshot (197)](https://github.com/Arsany-Osama/8-puzzle-solver-java/assets/160052013/788fd150-8462-418d-a558-628357dc5456)
+![Screenshot (199)](https://github.com/Arsany-Osama/8-puzzle-solver-java/assets/160052013/a10b8e83-4810-4d94-b4b9-4ebe09dd06aa)
+
 
 ### Features:
 - A Star
